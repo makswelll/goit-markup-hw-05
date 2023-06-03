@@ -345,19 +345,18 @@ img {
   justify-content: center;
 }
 .team-soc-link:hover,
-.team-soc-link:focus{
+.team-soc-link:focus {
   background-color: #404bbf;
 }
 .team-soc-icon {
   fill: #f4f4fd;
 }
 /* -------------------------------------------------------CUSTOMERS--------------------------------------------------------*/
-.customers{
+.customers {
   padding-top: 120px;
   padding-bottom: 120px;
 }
 .customers-container {
-  
 }
 .customers-title {
   font-size: 36px;
@@ -366,7 +365,7 @@ img {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   margin-bottom: 72px;
-  color:var(--secondary-text-color);
+  color: var(--secondary-text-color);
 }
 .customers-list {
   display: flex;
@@ -388,11 +387,11 @@ img {
   color: #8e8f99;
 }
 .customers-link:hover,
-.customers-link:focus{
+.customers-link:focus {
   border-color: var(--primare-hover-color);
   color: var(--primare-hover-color);
 }
-.customers-icon{
+.customers-icon {
   fill: currentColor;
 }
 
@@ -405,7 +404,7 @@ img {
 }
 .footer-container {
   display: flex;
-  align-items: baseline
+  align-items: baseline;
 }
 .footer-logo-text {
   margin-right: 120px;
@@ -481,7 +480,7 @@ img {
   justify-content: center;
 }
 .footer-soc-link:hover,
-.footer-soc-link:focus{
+.footer-soc-link:focus {
   background-color: #31d0aa;
 }
 .footer-soc-icon {
@@ -507,13 +506,15 @@ img {
   color: #ffffff;
   background-color: #404bbf;
   border: 1px solid transparent;
-  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 .projects-btn:focus {
   color: #ffffff;
   background-color: #404bbf;
   border: 1px solid transparent;
-  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 
 .projects-btn {
@@ -551,8 +552,9 @@ img {
   display: block;
 }
 .examples-link:hover,
-.examples-link:focus{
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+.examples-link:focus {
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .application-name {
   padding: 32px 16px;
